@@ -10,7 +10,7 @@ For ex: to run MC1->Go to MC1 2008->Open MC1.ipynb->Open cmd in  current locatio
 -> Video (13 min) - 2008VAST-Abhishek.mp4
 Describes approach and solution
 link:
-https://youtu.be/Og4a4PFRbqM
+https://www.youtube.com/watch?v=Og4a4PFRbqM
 
 ->Report (8 pages)
 Contains analysis and despcription in PDF format.
